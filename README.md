@@ -15,7 +15,7 @@
 
 ---
 
-**GOAL OF THE PROJECT :**  Implement **Grid Separation (will try for 60… as professor said)** to deduce insights on various energy consumption parameters’ relationship in the context of well documented academic research building.
+**GOAL OF THE PROJECT :**  Implement graphical analysis using RUST to deduce insights on various energy consumption parameters’ relationship in the context of well documented academic research building.
 
 ---
 
@@ -44,10 +44,6 @@ So, overall the versatility and tools provided with the dataset, which allows to
 ---
 
 ******************************IMPLEMENTATION:******************************
-
-About 25 days from proposal submission to final submission.
-
-Preliminary Time Line : 
 
 → **DATA LOADING/PREPROCESSING**
 
